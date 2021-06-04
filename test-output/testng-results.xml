@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-02T19:12:53 IST" name="Default suite" finished-at="2021-06-02T19:13:26 IST" duration-ms="33215">
+    <groups>
+    </groups>
+    <test started-at="2021-06-02T19:12:53 IST" name="Default test" finished-at="2021-06-02T19:13:26 IST" duration-ms="33215">
+      <class name="main.RegisterNG">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:main.RegisterNG@7f1302d6]" started-at="2021-06-02T19:12:53 IST" name="beforeTest" finished-at="2021-06-02T19:13:04 IST" duration-ms="11381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:main.RegisterNG@7f1302d6]" started-at="2021-06-02T19:13:04 IST" name="test" data-provider="Data" finished-at="2021-06-02T19:13:13 IST" duration-ms="8712" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[asdfgh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fgrth]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fgrth]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:main.RegisterNG@7f1302d6]" started-at="2021-06-02T19:13:13 IST" name="test" data-provider="Data" finished-at="2021-06-02T19:13:19 IST" duration-ms="5915" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[awbgtfrhyjukijuhybgtfvdc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dsvgtfrhyj7ui524786]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[dsvgtfrhyj7ui524786]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:main.RegisterNG@7f1302d6]" started-at="2021-06-02T19:13:19 IST" name="test" data-provider="Data" finished-at="2021-06-02T19:13:25 IST" duration-ms="6551" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[wadgrt785654]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[agtrh45876]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[agtrh45876]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:main.RegisterNG@7f1302d6]" started-at="2021-06-02T19:13:25 IST" name="afterTest" finished-at="2021-06-02T19:13:26 IST" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- main.RegisterNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
